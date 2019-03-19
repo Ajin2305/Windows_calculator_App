@@ -1,0 +1,14 @@
+c:\users\ajink\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\ajink\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\ajink\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\ajink\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+c:\users\ajink\source\repos\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+c:\users\ajink\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\ajink\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+c:\users\ajink\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+c:\users\ajink\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\ajink\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+c:\users\ajink\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+c:\users\ajink\source\repos\Calculator\Calculator\bin\Debug\Calculator.application
+c:\users\ajink\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+c:\users\ajink\source\repos\Calculator\Calculator\obj\Debug\Calculator.application
